@@ -16,7 +16,6 @@
     "url": "https://github.com/joshboyan/joshrestaurant/issues"
   },
   "homepage": "https://github.com/joshboyan/joshrestaurant#readme",
-  
   "devDependencies": {
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
